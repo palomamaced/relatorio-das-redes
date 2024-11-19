@@ -3,10 +3,10 @@ async function redesFavoritasMundo() {
 
 }
 async function redesFavoritasMundo() {
-    const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/redes-favoritas.json'
+    const url = 'https://raw.githubusercontent.com/palomamaciel/api/main/redes-favoritas.json'
 }
 async function redesFavoritasMundo() {
-    const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/redes-favoritas.json'
+    const url = 'https://raw.githubusercontent.compaloma/api/main/redes-favoritas.json'
     const res = await fetch(url)
     const dados = await res.json()
     console.log(dados);
@@ -15,7 +15,7 @@ async function redesFavoritasMundo() {
 redesFavoritasMundo()
 {Instagram: 16.5, WhatsApp: 16.1, Facebook: 12.8, WeChat: 12.8, TikTok: 7.4, _}
 async function redesFavoritasMundo() {
-    const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/redes-favoritas.json'
+    const url = 'https://raw.githubusercontent.com/palomamacielm/api/main/redes-favoritas.json'
     const res = await fetch(url)
     const dados = await res.json()
     const redes = Object.keys(dados)
@@ -24,7 +24,7 @@ async function redesFavoritasMundo() {
 
 redesFavoritasMundo()
 async function redesFavoritasMundo() {
-    const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/redes-favoritas.json'
+    const url = 'https://raw.githubusercontent.com/palomamacielmacedo/api/main/redes-favoritas.json'
     const res = await fetch(url)
     const dados = await res.json()
     const redes = Object.keys(dados)
@@ -96,7 +96,7 @@ async function redesFavoritasMundo() {
               import { getCSS } from "./common.js"
               
               async function redesFavoritasMundo() {
-                  const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/redes-favoritas.json'
+                  const url = 'https://raw.githubusercontent.com/palomamacielmacedo/api/main/redes-favoritas.json'
                   const res = await fetch(url)
                   const dados = await res.json()
                   const redes = Object.keys(dados)
@@ -140,7 +140,7 @@ values: valores,            labels: redes,            type: 'pie',            te
         }
         
         redesFavoritasMundo()async function redesFavoritasMundo() {
-            const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/redes-favoritas.json'
+            const url = 'https://raw.githubusercontent.com/palomamcaielmacedo/api/main/redes-favoritas.json'
             const res = await fetch(url)
             const dados = await res.json()
             const redes = Object.keys(dados)
@@ -212,7 +212,7 @@ values: valores,            labels: redes,            type: 'pie',            te
                                                                     import { getCSS } from "./common.js"
                                                                     
                                                                     async function redesFavoritasMundo() {
-                                                                        const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/redes-favoritas.json'
+                                                                        const url = 'https://raw.githubusercontent.com/palomamcielmacedo/api/main/redes-favoritas.json'
                                                                         const res = await fetch(url)
                                                                         const dados = await res.json()
                                                                         const redes = Object.keys(dados)
